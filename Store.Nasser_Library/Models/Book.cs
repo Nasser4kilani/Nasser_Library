@@ -1,4 +1,4 @@
-namespace Store.Nasser_Library
+namespace Store.Nasser_Library.Models
 {
     public class Book
     {
